@@ -94,7 +94,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'University of Illinois at Chicago',
-      degree: 'Degree',
+      degree: 'Bachelors',
       from: '2024',
       to: '2026',
     },
