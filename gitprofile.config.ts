@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['lugatuic/MVMT-Dont-Be-Scared-2025', 'ld-uic/sparkhacks-2025-scheduler', 'lukedeany/murl-chess-minmax', 'lukedeany/sdl-project'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['lugatuic/MVMT-Dont-Be-Scared-2025', 'ld-uic/sparkhacks-2025-scheduler', 'lukedeany/murl-chess-minmax', 'lukedeany/sdl-project', 'lugatuic/IntroToVimFall2025'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
