@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Worked with a team to port old minecraft mods to a newer version and using a newer language, while updating the user interface and fixing bugs that have been lingering for years.',
           imageUrl:
-            'https://cdn.modrinth.com/data/cached_images/f8dd730cf295dc3a449337df81cc47e010eddf3e.png',
+            'https://media.forgecdn.net/avatars/thumbnails/185/822/256/256/636829723898798601.png',
           link: 'https://modrinth.com/user/dataencoded',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'A medical system I created for an upcoming ROBLOX game. Probably one of the most complex systems I have created, and it interacts with a lot of other systems within the game, like the weapon system. A demo video is provided from this link.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png',
           link: 'https://www.youtube.com/watch?v=CdQjMXm2zhM',
         },
       ],
